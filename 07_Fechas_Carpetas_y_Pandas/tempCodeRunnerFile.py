@@ -1,0 +1,1 @@
+df_veredas[cols[3:]] == tipas[1]

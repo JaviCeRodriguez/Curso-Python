@@ -1,0 +1,18 @@
+Ejercicio 1.1: Python como calculadora
+En tu máquina, arrancá el Python y usal como una calculadora para resolver el siguiente problema.
+
+¿Cuántas horas son 105 minutos?
+¿Cuántos kilómetros son 20 millas? (un kilómetro corresponde a 0,6214 millas)
+>>> 105/60
+1.75
+>>> 20 / 0.6214
+32.1853878339234
+
+
+EJECUTAR TERMINAL Y ESCRIBIR: python3
+
+tip: Usá el guión bajo (underscore, _) para referirte al resultado del último cálculo.
+
+Si alguien corre una carrera de 20 millas en 105 minutos, ¿cuál fue tu velocidad promedio en km/h?
+>>> _/1.75
+18.391650190813372
